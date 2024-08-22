@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<object>
+  <object name="someObject">
+    <string name="name">John Doe</string>
+    <number name="age">30</number>
+    <string name="city">New York</string>
+  </object>
+</object>

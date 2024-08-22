@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<object>
+  <array name="someArray">
+    <number>1</number>
+    <string>two</string>
+    <number>3.14</number>
+    <boolean>false</boolean>
+  </array>
+</object>

@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<object>
+  <number name="someNumber">42</number>
+</object>
